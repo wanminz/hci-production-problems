@@ -30,8 +30,11 @@ would be able to be used as the text colors.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=31P0A0kCU++Gwn3Gwn3Gwn3hOOj
+Your Rationale: This color palette has a variety of bright colors like yellow,
+pink, and blue. The saturation has been set higher for the brightness and vitality
+of the colors. A lot of products and platforms created for children are very
+colorful and fun so this palette reflects just that. 
 
 4. A custom color palette for advertising a course on cybersecurity
 
