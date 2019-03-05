@@ -38,5 +38,8 @@ colorful and fun so this palette reflects just that.
 
 4. A custom color palette for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=b3K3y430kutAkqNlL++oVdFW3WF6h
+Your Rationale: I have purple-blue, blue, and blue-green as colors for
+advertising a course on cybersecurity. Like I said in number 1, I and a lot of
+companies associate blue with being related to technology. Additionally, there
+is the infamous blue screen of death for PCs to further support that correlation.
