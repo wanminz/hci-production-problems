@@ -11,8 +11,12 @@ Opt for the Paletton Preview mode Default with Text http://paletton.com/
 
 1. A monochromatic color palette for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=13H0u0kyCocOa8+RZeyjqttorDB
+Your Rationale: I went with a dark blue color for the new console gaming system.
+As it is monochromatic, I figured the different shades, tints, and tones would
+fit that theme. I see a lot of tech-related companies use blue for their coloring
+like HP. Playstation as a gaming console has their logo as blue so I associate
+blue with gaming. 
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
