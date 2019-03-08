@@ -22,7 +22,7 @@ a new repository within the organization. Initializing it on GitHub with a `READ
 unless you’ve already begun a repository on a group member’s computer. **That will be your shared
 repository for Project 2.**
 
-3. List the names of your group members here:
+3. List the names of your group members here: Dasha Day Hisoler, Kelly Perez, Stive Tenorio
 
 4. Copy and paste the URL for your group’s GitHub organization here:
 
