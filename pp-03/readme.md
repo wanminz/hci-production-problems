@@ -32,7 +32,7 @@ https://github.com/itmd-362-sadwek/project-2
 6. Each member of the group should fork the repository (including the group member whose account
 was used to create the GitHub organization for your project).
 
-Write the URL for your personal fork of the repository here:
+Write the URL for your personal fork of the repository here: https://github.com/wanminz/project-2
 
 7. Each member of the group should clone their forked copy of the repository to his/her computer.
 Once you have cloned the forked copy, you should add the *group* repository as a second remote. Run
