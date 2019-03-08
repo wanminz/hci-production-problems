@@ -24,7 +24,7 @@ repository for Project 2.**
 
 3. List the names of your group members here: Dasha Day Hisoler, Kelly Perez, Stive Tenorio
 
-4. Copy and paste the URL for your group’s GitHub organization here:
+4. Copy and paste the URL for your group’s GitHub organization here: https://github.com/itmd-362-sadwek
 
 5. Copy and paste the URL for your group’s shared repository for Project Two here:
 
