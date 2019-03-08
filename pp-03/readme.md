@@ -27,6 +27,7 @@ repository for Project 2.**
 4. Copy and paste the URL for your group’s GitHub organization here: https://github.com/itmd-362-sadwek
 
 5. Copy and paste the URL for your group’s shared repository for Project Two here:
+https://github.com/itmd-362-sadwek/project-2
 
 6. Each member of the group should fork the repository (including the group member whose account
 was used to create the GitHub organization for your project).
