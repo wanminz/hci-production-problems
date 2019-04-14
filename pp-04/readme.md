@@ -38,6 +38,19 @@ the same thing, so I removed "Admissions" as that was unnecessary and redundant.
 * HCI Guideline Two (URL):
 https://developer.apple.com/design/human-interface-guidelines/ios/controls/pickers/
 * Describe how you implemented that guideline in your sketch:
+For the second sketch, I fixed MCA's picker and added controls of my own to
+reduce clutter. The original list was long and tedious so I created 4 separate
+types of memberships and then added their own subgroups. Before, going into the
+first text input field, it required you to scroll through a long list of all
+their memberships with details. I saw that these four memberships were repeated
+quite often: Basic Membership, Premier Membership, Circle Membership, and DVC
+Membership. I changed the list for the picker to only contain those four options.
+As for the subcategories within the chosen memberships, I added radio buttons at
+the bottom to include options for the user to choose. The text would also be part
+of the selection field to increase touchability. For example, in my sketch, I
+picked "Premier Membership." After choosing a membership, it will auto-populate
+radio buttons with the corresponding types like "Friend," "Contributor", "Associate,"
+and "Advocate."
 
 * HCI Guideline Three (URL):
 https://developer.apple.com/design/human-interface-guidelines/ios/controls/text-fields/
