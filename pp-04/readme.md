@@ -55,3 +55,8 @@ and "Advocate."
 * HCI Guideline Three (URL):
 https://developer.apple.com/design/human-interface-guidelines/ios/controls/text-fields/
 * Describe how you implemented that guideline in your sketch:
+As for my last sketch, I focused on the text fields design guideline--primarily
+the keyboard type. On the MCA site, when you click on the text field where you
+put a monetary value, the entire QWERTY keyboard comes up. However, that is a
+bit unneeded because you're only going to be entering digit values. In my sketch,
+I replaced it with a phone keyboard in order to streamline data entries.
