@@ -12,13 +12,14 @@ of exactly ten items **that are relevant to your group’s interface from Projec
 
 * Your own condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Ensure that the site works on all web browsers
+2. The font is easy to read and not everything is styled
+3. Have reasonable number of buttons or links that user has to click
+4. Visitors should know what the purpose of the site is (in our case, what we
+  sell)
+5. Have a clear and easy to use navigation
+6. Don't place too much content on one page or cluster everything together to avoid overloading the user
+7. Make sure the links in the site work
+8. Have visible and explicit prices on items
+9. Keep the design of the webpage consistent
+10. The site should work in different viewports so users with differently sized devices can access the content all the same.
